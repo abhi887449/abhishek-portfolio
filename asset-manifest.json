@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abhishek-portfolio/static/css/main.cb672822.css",
-    "main.js": "/abhishek-portfolio/static/js/main.472abd01.js",
+    "main.js": "/abhishek-portfolio/static/js/main.3dc3c31f.js",
     "static/js/787.b217d0ff.chunk.js": "/abhishek-portfolio/static/js/787.b217d0ff.chunk.js",
     "static/media/abhishek-avatar.jpg": "/abhishek-portfolio/static/media/abhishek-avatar.538c143ee1accaa65a01.jpg",
     "static/media/coder-intro.png": "/abhishek-portfolio/static/media/coder-intro.ba1000c087af36a5fdd2.png",
@@ -9,11 +9,11 @@
     "static/media/beautifulSoup-logo.jpg": "/abhishek-portfolio/static/media/beautifulSoup-logo.cac0dc123707cbfec893.jpg",
     "index.html": "/abhishek-portfolio/index.html",
     "main.cb672822.css.map": "/abhishek-portfolio/static/css/main.cb672822.css.map",
-    "main.472abd01.js.map": "/abhishek-portfolio/static/js/main.472abd01.js.map",
+    "main.3dc3c31f.js.map": "/abhishek-portfolio/static/js/main.3dc3c31f.js.map",
     "787.b217d0ff.chunk.js.map": "/abhishek-portfolio/static/js/787.b217d0ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb672822.css",
-    "static/js/main.472abd01.js"
+    "static/js/main.3dc3c31f.js"
   ]
 }
