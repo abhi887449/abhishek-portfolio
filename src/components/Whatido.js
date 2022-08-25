@@ -43,7 +43,7 @@ const Whatido = () => {
                 <div className="flex flex-col text-gray-600 ml-7 mr-3 mt-8">
                     <h1 className="text-2xl lg:text-3xl font-bold m-auto"><span className='block sm:inline'>Machine Learnning &</span><span> Artificial Intelligence</span></h1>
                     <div className='m-auto sm:w-auto text-md mt-3'><img className='h-7 break-words inline' src={wicon} alt="work" />Web Scraping using python libraries - BeautifulSoup and Selenium.</div>
-                    <div className='m-auto sm:w-auto text-md mt-3'><img className='h-7 break-words inline' src={wicon} alt="work" />Nowadays learning how to build Artificial Intelligence</div>
+                    <div className='m-auto sm:w-auto text-md mt-3'><img className='h-7 break-words inline' src={wicon} alt="work" />Nowadays learning how to build Artificial Intelligence.</div>
                 </div>
                 <div className="mt-5 flex flex-row flex-wrap justify-center content-center ml-5 mr-3 mb-5">
                     <img className='h-16 w-16 p-2 m-2 rounded-full shadow-box' src={pythonlogo} alt="python" />
