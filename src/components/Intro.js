@@ -30,7 +30,7 @@ const Intro = () => {
               <span className="p-2 material-symbols-outlined">
                 description
               </span>
-              <a href="https://drive.google.com/file/d/1eJmnuh7js1HldpfeRjxIph4S9tDMfIOB/view?usp=share_link" target="_blank" rel="noopener noreferrer" className='pt-2'>SEE MY RESUME</a>
+              <a href="https://drive.google.com/file/d/1DRo7CEDi-8PajV2mKSb2WiBAFhoX44co/view?usp=share_link" target="_blank" rel="noopener noreferrer" className='pt-2'>SEE MY RESUME</a>
             </div>
             <div className='flex flex-row'>
               <a className='h-10 w-10 mt-3 m-1 bg-white rounded-full sm:hover:translate-y-1 ease-in-out' href="https://github.com/abhi887449" target="_blank" rel="noopener noreferrer"><img className='h-6 rounded-2xl m-2' src={github} alt="github" /></a>
